@@ -15,7 +15,7 @@ adduser abk
 
 usermod -aG sudo abk
 
-# 
+# creation du dossier .ssh et du fichier qui va contenir la clé
 
 mkdir /home/abk/.ssh
 cd /home/abk/.ssh
