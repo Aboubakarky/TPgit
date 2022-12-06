@@ -16,7 +16,6 @@ Port 5556
 # Logging
 #SyslogFacility AUTH
 #LogLevel INFO
-
 # Authentication:
 
 PermitRootLogin no
